@@ -24,9 +24,9 @@ Foram utilizados diversos modelos de **Machine Learning** e **Deep Learning** pa
 - Análise de Monte Carlo: Técnica estatística para simulação de múltiplos cenários e análise de riscos probabilísticos.
 
 ### Modelos Selecionados para o Resultado Final
-Após uma análise detalhada de desempenho e adequação ao conjunto de dados financeiros, os seguintes modelos foram selecionados para compor os resultados finais:
-1 - LSTM (Deep Learning): Demonstrou excelente capacidade de capturar padrões complexos e oscilações históricas, proporcionando previsões que refletem a volatilidade do mercado financeiro.
-2 - Prophet (Machine Learning): Escolhido por sua habilidade em prever tendências e sazonalidades, com ajustes para oscilações realistas, gerando resultados robustos e interpretáveis.
+Após uma análise detalhada de desempenho e adequação ao conjunto de dados financeiros, os seguintes modelos foram selecionados para compor os resultados finais:\n
+1 - LSTM (Deep Learning): Demonstrou excelente capacidade de capturar padrões complexos e oscilações históricas, proporcionando previsões que refletem a volatilidade do mercado financeiro.\n
+2 - Prophet (Machine Learning): Escolhido por sua habilidade em prever tendências e sazonalidades, com ajustes para oscilações realistas, gerando resultados robustos e interpretáveis.\n
 3 - Análise de Monte Carlo (Estatística): Utilizada para avaliar probabilidades de diferentes trajetórias, destacando cenários pessimistas, otimistas e médios, com uma visão probabilística dos riscos e oportunidades.
 
 ### Justificativa

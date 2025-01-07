@@ -11,15 +11,6 @@ O mercado de ações é notoriamente volátil, tornando a previsão de preços u
 ---
 
 ## Abordagem
-
-Foram utilizados diversos modelos de **Machine Learning** e **Deep Learning** para atender ao desafio, incluindo:
-
-- **PyTorch** e **TensorFlow**: Frameworks para construção e treinamento de redes neurais.
-- **LSTM (Long Short-Term Memory)**: Um modelo avançado de redes neurais recorrentes, ideal para séries temporais.
-- **NeuralProphet** e **Prophet**: Modelos especializados em previsão de séries temporais.
-- **Análise de Monte Carlo**: Para simulação de cenários probabilísticos e análise de risco.
-
-## Abordagem
 Foram utilizados diversos modelos de **Machine Learning** e **Deep Learning** para atender ao desafio, incluindo:
 
 Modelos Testados

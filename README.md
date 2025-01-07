@@ -2,6 +2,8 @@
 
 Neste projeto, fiz um estudo de **Data Science** usando modelos de **Machine Learning** para prever as ações da **Nvidia** para o ano de **2025**.
 
+
+
 ## Desafio
 
 Tendo em mente que as ações são extremamente voláteis e difíceis de prever, foram utilizados alguns modelos de **Machine Learning** e **Deep Learning**, como:
@@ -13,11 +15,17 @@ Tendo em mente que as ações são extremamente voláteis e difíceis de prever,
 - **Prophet**
 - **Análise de Monte Carlo**
 
+
+
 ## Resultados
 
-O resultado mais interessante foi com o modelo **Prophet**, que atingiu uma previsão que aparenta ser bem realista.
+O resultado mais interessante foi com o modelo **Prophet** e a análise Monte Carlo, que atingiu uma previsão que aparenta ser bem realista, os modelos de deeplearning necessitaram de mais dados e não desempenharam tão bem.
 
-### Análise de Monte Carlo
+
+
+## Análise de Monte Carlo
+
+![Análise de Monte Carlo]([imagens/exemplo.png](https://github.com/davidalpa/nvidia-forecasting/blob/main/foto_nvidia_monte_carlo_final.png?raw=true))
 
 Já na **análise de Monte Carlo**, simulei 1 milhão de cenários e considerei os cenários pessimistas e otimistas para chegar a uma média interessante.
 
@@ -25,9 +33,15 @@ Já na **análise de Monte Carlo**, simulei 1 milhão de cenários e considerei 
 - **Cenário pessimista**: Queda de **-57%**
 - **Média**: Crescimento de **37%**
 
-### Análise de Machine Learning (Prophet)
+
+
+## Análise de Machine Learning (Prophet)
+
+![Descrição da Imagem](imagens/exemplo.png)
 
 Já a análise de **Machine Learning** com o modelo **Prophet** prevê um aumento de **72,8%** nas ações até o último dia de **2025**.
+
+
 
 ## Conclusão
 

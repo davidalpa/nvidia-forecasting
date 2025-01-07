@@ -13,6 +13,7 @@ O mercado de ações é notoriamente volátil, tornando a previsão de preços u
 ## Abordagem
 Foram utilizados diversos modelos de **Machine Learning** e **Deep Learning** para atender ao desafio, incluindo:
 
+
 ### Modelos Testados
 - TensorFlow (Google): Framework versátil para construção e treinamento de redes neurais avançadas.
 - PyTorch (Meta): Outro framework poderoso para desenvolvimento de modelos baseados em redes neurais.
@@ -23,11 +24,16 @@ Foram utilizados diversos modelos de **Machine Learning** e **Deep Learning** pa
 - NeuralProphet (Meta): Variante do Prophet que incorpora funcionalidades adicionais, como aprendizado baseado em redes neurais.
 - Análise de Monte Carlo: Técnica estatística para simulação de múltiplos cenários e análise de riscos probabilísticos.
 
+
 ### Modelos Selecionados para o Resultado Final
-Após uma análise detalhada de desempenho e adequação ao conjunto de dados financeiros, os seguintes modelos foram selecionados para compor os resultados finais:\n
-1 - LSTM (Deep Learning): Demonstrou excelente capacidade de capturar padrões complexos e oscilações históricas, proporcionando previsões que refletem a volatilidade do mercado financeiro.\n
-2 - Prophet (Machine Learning): Escolhido por sua habilidade em prever tendências e sazonalidades, com ajustes para oscilações realistas, gerando resultados robustos e interpretáveis.\n
+Após uma análise detalhada de desempenho e adequação ao conjunto de dados financeiros, os seguintes modelos foram selecionados para compor os resultados finais:
+
+1 - LSTM (Deep Learning): Demonstrou excelente capacidade de capturar padrões complexos e oscilações históricas, proporcionando previsões que refletem a volatilidade do mercado financeiro.
+
+2 - Prophet (Machine Learning): Escolhido por sua habilidade em prever tendências e sazonalidades, com ajustes para oscilações realistas, gerando resultados robustos e interpretáveis.
+
 3 - Análise de Monte Carlo (Estatística): Utilizada para avaliar probabilidades de diferentes trajetórias, destacando cenários pessimistas, otimistas e médios, com uma visão probabilística dos riscos e oportunidades.
+
 
 ### Justificativa
 Apesar de todos os modelos terem sido testados, nem todos se mostraram adequados para o contexto de dados financeiros e as metas do projeto. Modelos como PyTorch, ARIMA e NeuralProphet apresentaram limitações na captura de padrões complexos ou precisão das previsões para este conjunto de dados. Assim, a seleção final foi baseada em desempenho preditivo, adaptabilidade ao contexto financeiro e interpretabilidade.

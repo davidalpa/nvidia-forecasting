@@ -23,7 +23,7 @@ O resultado mais interessante foi com o modelo **Prophet** e a análise Monte Ca
 
 
 
-## Análise de Monte Carlo
+## Análise Estatística de Monte Carlo
 
 ![Análise de Monte Carlo](foto_nvidia_monte_carlo_final.png)
 
@@ -39,10 +39,21 @@ Já na **análise de Monte Carlo**, simulei 1 milhão de cenários e considerei 
 
 ![Descrição da Imagem](foto_nvidia_forecasting_prophet_final.png)
 
-Já a análise de **Machine Learning** com o modelo **Prophet** prevê um aumento de **72,8%** nas ações até o último dia de **2025**.
+Já a análise de **Machine Learning** com o modelo **Prophet** prevê um aumento de **72,8%** nas ações até o último dia de 2025.
+
+
+
+## Análise de Deep Learning (LSTM - Long Short-Term Memory)
+
+![Descrição da Imagem](foto_nvidia_forecasting_deeplearning_lstm_redes_neurais.png)
+
+Já a análise de **Deep Learning** com o modelo **LSTM** prevê um aumento de **56,5%** nas ações até o último dia de 2025.
+
 
 
 
 ## Conclusão
+
+Na minha opinião o melhor modelo foi o LSTM, por ser capaz de traduzir um cenário mais realista possível.
 
 E aí? Será que alguma dessas previsões vai se confirmar? Vamos acompanhar e ver como o mercado da Nvidia se comporta em 2025!

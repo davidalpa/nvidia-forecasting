@@ -56,14 +56,14 @@ A abordagem forneceu uma perspectiva detalhada de diferentes possíveis trajetó
 
 ---
 
-### 2. **Previsão com Machine Learning (Prophet)**
+### 2. **Previsão com Machine Learning (Prophet do Facebook)**
 ![Prophet](foto_nvidia_forecasting_prophet_final.png)
 
 Utilizando o modelo **Prophet**, focado em componentes sazonais e tendências, os resultados indicam um aumento estimado de **72,8%** até o último dia de **2025**. O modelo também apresentou um bom ajuste para oscilações realistas.
 
 ---
 
-### 3. **Análise com Deep Learning (LSTM)**
+### 3. **Previsão com Deep Learning (LSTM do Google)**
 ![LSTM](foto_nvidia_forecasting_deeplearning_lstm_redes_neurais.png)
 
 O modelo **LSTM**, com sua capacidade de lidar com padrões temporais complexos, previu um aumento de **56,5%** até o final de **2025**. Ele foi capaz de capturar as oscilações históricas de forma satisfatória, refletindo a realidade do mercado.

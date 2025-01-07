@@ -25,7 +25,7 @@ O resultado mais interessante foi com o modelo **Prophet** e a análise Monte Ca
 
 ## Análise de Monte Carlo
 
-![Análise de Monte Carlo](https://github.com/davidalpa/nvidia-forecasting/blob/main/foto_nvidia_monte_carlo_final.png?raw=true)
+![Análise de Monte Carlo](foto_nvidia_monte_carlo_final.png)
 
 Já na **análise de Monte Carlo**, simulei 1 milhão de cenários e considerei os cenários pessimistas e otimistas para chegar a uma média interessante.
 
@@ -37,7 +37,7 @@ Já na **análise de Monte Carlo**, simulei 1 milhão de cenários e considerei 
 
 ## Análise de Machine Learning (Prophet)
 
-![Descrição da Imagem](foto_nvidia_monte_carlo_final.png)
+![Descrição da Imagem](foto_nvidia_forecasting_prophet_final.png)
 
 Já a análise de **Machine Learning** com o modelo **Prophet** prevê um aumento de **72,8%** nas ações até o último dia de **2025**.
 

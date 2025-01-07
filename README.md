@@ -15,24 +15,24 @@ Foram utilizados diversos modelos de **Machine Learning** e **Deep Learning** pa
 
 
 ### Modelos Testados
-- TensorFlow (Google): Framework versátil para construção e treinamento de redes neurais avançadas.
-- PyTorch (Meta): Outro framework poderoso para desenvolvimento de modelos baseados em redes neurais.
-- LSTM (Google): Redes neurais recorrentes avançadas, eficazes na captura de padrões temporais de longo prazo em séries temporais.
-- Scikit-learn: Ferramenta amplamente utilizada para preprocessamento de dados e avaliação de modelos estatísticos.
-- ARIMA: Modelo clássico para séries temporais, focado em capturar tendências simples e sazonalidades.
-- Prophet (Meta): Modelo especializado em previsão de séries temporais, com suporte a tendências, sazonalidades complexas e eventos externos.
-- NeuralProphet (Meta): Variante do Prophet que incorpora funcionalidades adicionais, como aprendizado baseado em redes neurais.
-- Análise de Monte Carlo: Técnica estatística para simulação de múltiplos cenários e análise de riscos probabilísticos.
+- **TensorFlow** (Google): Framework versátil para construção e treinamento de redes neurais avançadas.
+- **PyTorch** (Meta): Outro framework poderoso para desenvolvimento de modelos baseados em redes neurais.
+- **LSTM** (Google): Redes neurais recorrentes avançadas, eficazes na captura de padrões temporais de longo prazo em séries temporais.
+- **Scikit-learn**: Ferramenta amplamente utilizada para preprocessamento de dados e avaliação de modelos estatísticos.
+- **ARIMA**: Modelo clássico para séries temporais, focado em capturar tendências simples e sazonalidades.
+- **Prophet** (Meta): Modelo especializado em previsão de séries temporais, com suporte a tendências, sazonalidades complexas e eventos externos.
+- **NeuralProphet** (Meta): Variante do Prophet que incorpora funcionalidades adicionais, como aprendizado baseado em redes neurais.
+- **Análise de Monte Carlo**: Técnica estatística para simulação de múltiplos cenários e análise de riscos probabilísticos.
 
 
 ### Modelos Selecionados para o Resultado Final
 Após uma análise detalhada de desempenho e adequação ao conjunto de dados financeiros, os seguintes modelos foram selecionados para compor os resultados finais:
 
-1 - LSTM (Deep Learning): Demonstrou excelente capacidade de capturar padrões complexos e oscilações históricas, proporcionando previsões que refletem a volatilidade do mercado financeiro.
+**1 - LSTM (Deep Learning)**: Demonstrou excelente capacidade de capturar padrões complexos e oscilações históricas, proporcionando previsões que refletem a volatilidade do mercado financeiro.
 
-2 - Prophet (Machine Learning): Escolhido por sua habilidade em prever tendências e sazonalidades, com ajustes para oscilações realistas, gerando resultados robustos e interpretáveis.
+**2 - Prophet (Machine Learning)**: Escolhido por sua habilidade em prever tendências e sazonalidades, com ajustes para oscilações realistas, gerando resultados robustos e interpretáveis.
 
-3 - Análise de Monte Carlo (Estatística): Utilizada para avaliar probabilidades de diferentes trajetórias, destacando cenários pessimistas, otimistas e médios, com uma visão probabilística dos riscos e oportunidades.
+**3 - Análise de Monte Carlo (Estatística)**: Utilizada para avaliar probabilidades de diferentes trajetórias, destacando cenários pessimistas, otimistas e médios, com uma visão probabilística dos riscos e oportunidades.
 
 
 ### Justificativa

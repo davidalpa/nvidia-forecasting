@@ -81,3 +81,14 @@ Cada abordagem apresentou suas forças e limitações:
 Na minha opinião, o modelo **LSTM** apresentou o melhor equilíbrio entre realismo e previsibilidade, preservando as oscilações históricas e capturando tendências de longo prazo.
 
 E aí, qual modelo você acha que se sairá melhor em 2025? Vamos acompanhar o mercado e descobrir juntos!
+
+---
+
+## Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e contribuir!
+
+---
+
+## Contribuições
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request com suas melhorias.
+

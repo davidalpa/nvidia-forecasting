@@ -17,7 +17,7 @@ Foram utilizados diversos modelos de **Machine Learning** e **Deep Learning** pa
 ### Modelos Testados
 - **TensorFlow** (Google): Framework versátil para construção e treinamento de redes neurais avançadas.
 - **PyTorch** (Meta): Outro framework poderoso para desenvolvimento de modelos baseados em redes neurais.
-- **LSTM** (Google): Redes neurais recorrentes avançadas, eficazes na captura de padrões temporais de longo prazo em séries temporais.
+- **LSTM**: Redes neurais recorrentes avançadas, eficazes na captura de padrões temporais de longo prazo em séries temporais.
 - **Scikit-learn**: Ferramenta amplamente utilizada para preprocessamento de dados e avaliação de modelos estatísticos.
 - **ARIMA**: Modelo clássico para séries temporais, focado em capturar tendências simples e sazonalidades.
 - **Prophet** (Meta): Modelo especializado em previsão de séries temporais, com suporte a tendências, sazonalidades complexas e eventos externos.
@@ -63,7 +63,7 @@ Utilizando o modelo **Prophet**, focado em componentes sazonais e tendências, o
 
 ---
 
-### 3. **Previsão com Deep Learning (LSTM do Google)**
+### 3. **Previsão com Deep Learning (LSTM)**
 ![LSTM](foto_nvidia_forecasting_deeplearning_lstm_redes_neurais.png)
 
 O modelo **LSTM**, com sua capacidade de lidar com padrões temporais complexos, previu um aumento de **56,5%** até o final de **2025**. Ele foi capaz de capturar as oscilações históricas de forma satisfatória, refletindo a realidade do mercado.

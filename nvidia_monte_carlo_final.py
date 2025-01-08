@@ -89,23 +89,6 @@ simulated_prices = last_price * np.exp(
 
 end_simulation = datetime.now()
 
-## Código obsoleto demora absurdamente mais quando feito com loop ao inves de vetor numpy
-# # Medir o tempo para simulação
-# start_simulation = time.perf_counter()
-
-# simulated_prices = np.zeros((num_days, num_simulations))
-# simulated_prices[0, :] = last_price
-
-# for sim in range(num_simulations):  # Loop por simulação
-#     for day in range(1, num_days):  # Loop por dia
-#         random_shock = np.random.normal(0, 1)  # Gerar choque aleatório
-#         simulated_prices[day, sim] = simulated_prices[day - 1, sim] * np.exp(
-#             (mu - 0.5 * sigma ** 2) + sigma * random_shock
-#         )
-
-# end_simulation = time.perf_counter()
-
-
 # ===== RESUMO DOS RESULTADOS =====
 final_prices = simulated_prices[-1, :]
 cenario_pessimista = np.percentile(final_prices, 5)
